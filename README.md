@@ -1,4 +1,6 @@
-<a href="https://drive.google.com/file/d/1b_KK8opL-g_7KauNEwuWbjOBEXHyFxhx/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:sameerthq2912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href=" https://www.linkedin.com/in/sameer-yadav-061b51217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://drive.google.com/file/d/1b_KK8opL-g_7KauNEwuWbjOBEXHyFxhx/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:sameerthq2912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sameer-yadav-061b51217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
 
